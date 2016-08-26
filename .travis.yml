@@ -4,3 +4,5 @@ php:
   - 5.4
   - hhvm
 script: phpunit Test.php
+notifications:
+  slack: cbmes:yyUN8gsTRYW0MGjPGkz51DCu
